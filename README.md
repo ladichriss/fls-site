@@ -1,24 +1,13 @@
 # Percorso FSL — Christian Ladisa
 
-Sito vetrina del percorso di **Formazione Scuola Lavoro (FSL)** di Christian Ladisa,
-classe V ITIA C — ITT «Panetti‑Pitagora», Bari. Triennio 2023/2026.
+Sito che racconta il mio percorso di **Formazione Scuola Lavoro (FSL)**,
+svolto durante il triennio 2023/2026 nella classe V ITIA C
+dell'ITT «Panetti‑Pitagora» di Bari, indirizzo Informatica.
 
-## Contenuti
+È una vetrina del cammino fatto in questi tre anni: tra corsi, visite aziendali,
+laboratori e attività di orientamento, ho messo alla prova le competenze
+acquisite a scuola e scoperto come la tecnologia vive nelle aziende reali.
 
-- **Hero** — presentazione del percorso
-- **Intro** — il percorso in sintesi e alcune statistiche
-- **Linea temporale** — tutte le esperienze, anno per anno
-- **Esperienze chiave** — le due attività più formative (Auriga e In volo con Leonardo)
-- **Conclusioni**
-
-## Struttura
-
-- `index.html` — struttura della pagina
-- `styles.css` — stile
-- `script.js` — dati della timeline e interazioni (animazioni, barra di scroll, navigazione da tastiera)
-
-## Come avviarlo
-
-Apri `index.html` nel browser. Nessuna dipendenza o build necessari.
-
-Suggerimento per l'esposizione: usa le frecce **↑ ↓** per scorrere sezione per sezione.
+Il sito ripercorre tutte le esperienze del triennio e mette in evidenza le due
+che mi hanno formato di più — la visita ad **Auriga S.p.A.** e il percorso
+**In volo con Leonardo** — fino alle conclusioni su cosa mi ha lasciato questo percorso.
