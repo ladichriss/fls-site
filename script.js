@@ -267,7 +267,7 @@ function setupScrollProgress() {
 function setupKeyboardNav() {
   const sections = Array.from(document.querySelectorAll("section[id]"));
   const goTo = (dir) => {
-    const ref = window.scrollY + 4; // posizione corrente con piccola tolleranza
+    const ref = window.scrollY + window.innerHeight * 0.35; // posizione corrente con tolleranza
     // indice dell'ultima sezione il cui inizio è già stato superato
     let current = 0;
     sections.forEach((s, i) => { if (s.offsetTop <= ref) current = i; });
